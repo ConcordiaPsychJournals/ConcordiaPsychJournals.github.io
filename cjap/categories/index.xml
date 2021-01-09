@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo Future Imperfect</title>
-    <link>cjap/categories/</link>
+    <link>/cjap/categories/</link>
     <description>Recent content in Categories on Hugo Future Imperfect</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="cjap/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/cjap/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aging</title>
-      <link>cjap/categories/aging/</link>
+      <link>/cjap/categories/aging/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>cjap/categories/aging/</guid>
+      <guid>/cjap/categories/aging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Animal Learning</title>
-      <link>cjap/categories/animal-learning/</link>
+      <link>/cjap/categories/animal-learning/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>cjap/categories/animal-learning/</guid>
+      <guid>/cjap/categories/animal-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brain Connectivity</title>
-      <link>cjap/categories/brain-connectivity/</link>
+      <link>/cjap/categories/brain-connectivity/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>cjap/categories/brain-connectivity/</guid>
+      <guid>/cjap/categories/brain-connectivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Circadian Clock</title>
-      <link>cjap/categories/circadian-clock/</link>
+      <link>/cjap/categories/circadian-clock/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>cjap/categories/circadian-clock/</guid>
+      <guid>/cjap/categories/circadian-clock/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disorders</title>
-      <link>cjap/categories/disorders/</link>
+      <link>/cjap/categories/disorders/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>cjap/categories/disorders/</guid>
+      <guid>/cjap/categories/disorders/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eye-tracking</title>
-      <link>cjap/categories/eye-tracking/</link>
+      <link>/cjap/categories/eye-tracking/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>cjap/categories/eye-tracking/</guid>
+      <guid>/cjap/categories/eye-tracking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mental Illness</title>
-      <link>cjap/categories/mental-illness/</link>
+      <link>/cjap/categories/mental-illness/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>cjap/categories/mental-illness/</guid>
+      <guid>/cjap/categories/mental-illness/</guid>
       <description></description>
     </item>
     
