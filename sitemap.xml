@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-   <url>
+   
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-01-03T13:45:06+06:00</lastmod>
+  </url>
+    
+    <url>
     <loc>/cjap/blog/picky-eating/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
@@ -175,41 +181,41 @@
   </url>
   
   <url>
-    <loc>/cjpn/news/designing-/cjpn/</loc>
+    <loc>/news/designing-/cjpn/</loc>
     <lastmod>2021-01-03T13:45:06+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjpn/news/</loc>
+    <loc>/news/</loc>
+    <lastmod/>2019-12-23T20:17:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
     <lastmod>2019-12-23T20:17:01+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjpn/contact/</loc>
-    <lastmod>2019-12-23T20:17:01+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cjpn/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjpn/guidelines/</loc>
+    <loc>/guidelines/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjpn/team/</loc>
+    <loc>/team/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjpn/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/cjpn/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
