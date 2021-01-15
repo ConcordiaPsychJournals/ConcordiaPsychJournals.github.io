@@ -6,7 +6,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<title>Concordia Journals</title>
+		<title>Concordia Psychology Journals</title>
 		<link rel="icon" href="/images/logo.png" type="images/png"/>
 	
 		<link href="https://fonts.googleapis.com/css?family=Reem+Kufi|Roboto:300" rel="stylesheet">
@@ -29,12 +29,13 @@ body, html {
   height: 100%;
   margin: ;
   font-family: Arial, Helvetica, sans-serif;
-}
 
 * {
   box-sizing: border-box;
+    }
 }
 
+    
 .bg-image {
   /* The image used */
   background-image: url("1.jpg");
@@ -49,6 +50,14 @@ body, html {
   background-repeat: no-repeat;
   background-size: 1000px;
 }
+    @media (max-width:980px){
+      .bg-image {
+        background-position:left;
+          background-size: 500px;
+      }
+    }
+
+    
 
 /* Position text in the middle of the page/image */
 .bg-text {
@@ -61,8 +70,24 @@ body, html {
   z-index: 2;
   width: 80%;
   text-align: right;
-}
+    font-size: 30px;
+    }
+    
+    @media (max-width:980px){
+      .bg-text {
+        font-size:20px;
+      }
+    }
+     @media (max-width:600px){
+      .bg-text {
+        font-size:15px;
+      }
+    }
 
+    .h1 {
+        font-size: 20px;
+    }
+    
 .button {
   padding: 10px 20px;
   font-size: 24px;
@@ -75,14 +100,24 @@ body, html {
   border-radius: 10px;
   box-shadow: 0 5px #999;
 }
+     @media (max-width:980px){
+      .button {
+        font-size:15px;
+        padding: 5px, 20px;
+      }
+    }
+    
 
+    
 .button:hover {background-color: #921F05}
+
 
 .button:active {
   background-color: #921F05;
   box-shadow: 0 5px #666;
   transform: translateY(5px);
 }
+    
 
 </style>
 
@@ -90,8 +125,7 @@ body, html {
 
 
 <div class="bg-text">
-  <h1 style="font-size:60px">Concordia Psychology Journals</h1>
-	<br>
+    <h1>Concordia Psychology Journals</h1>
 	<br>
   <button class="button button" onclick="location.href='cjap/';"> Accessible Psychology (CJAP) </button>
   <button class="button button" onclick="location.href='cjpn/';"> Psychology and Neuroscience (CJPN) </button>
