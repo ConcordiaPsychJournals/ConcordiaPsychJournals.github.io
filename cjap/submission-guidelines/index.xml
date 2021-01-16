@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Submission Guidelines on CJAP | Concordia Journal of Accessible Psychology </title>
-    <link>/submission-guidelines/</link>
+    <link>/cjap/submission-guidelines/</link>
     <description>Recent content in Submission Guidelines on CJAP | Concordia Journal of Accessible Psychology </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/submission-guidelines/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/cjap/submission-guidelines/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
