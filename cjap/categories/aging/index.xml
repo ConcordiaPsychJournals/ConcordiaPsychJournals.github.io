@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aging on CJAP | Concordia Journal of Accessible Psychology </title>
-    <link>cjap/categories/aging/</link>
+    <link>/cjap/categories/aging/</link>
     <description>Recent content in Aging on CJAP | Concordia Journal of Accessible Psychology </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="cjap/categories/aging/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/cjap/categories/aging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>THE DEATH OF YOUR BEST FRIENDS</title>
-      <link>cjap/blog/death-best-friend/</link>
+      <link>/cjap/blog/death-best-friend/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>cjap/blog/death-best-friend/</guid>
+      <guid>/cjap/blog/death-best-friend/</guid>
       <description>This is an image I took of a mouse neuron while working on my thesis. I’ve always liked to call neurons our best friends because they care for us, provide us support, and without them, we would struggle to accomplish tasks and goals we set for ourselves. However, just like real friends, a healthy relationship must be maintained. The loss of a friend, also known as neuronal death, can arise through a variety of ways from brain damage, substance abuse to old age.</description>
     </item>
     
