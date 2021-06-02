@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CJPN | Concordia Journal of Psychology and Neuroscience</title>
-    <link>/cjpn/</link>
-    <description>Recent content on CJPN | Concordia Journal of Psychology and Neuroscience</description>
+    <title>CJPN Events on CJPN | Concordia Journal of Psychology and Neuroscience</title>
+    <link>/cjpn/events/</link>
+    <description>Recent content in CJPN Events on CJPN | Concordia Journal of Psychology and Neuroscience</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 May 2021 13:45:06 +0600</lastBuildDate><atom:link href="/cjpn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="/cjpn/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Submit</title>
       <link>/cjpn/events/how-to-submit/</link>
@@ -45,26 +45,6 @@ Want to learn a new skill? Join us on March 4th to learn how to make your very o
       <guid>/cjpn/events/dos-donts/</guid>
       <description>Event date: February 1st, 2021 Watch the Recording
 As part of Journal Day, a collaborative event between psychology students at Concordia and McGill University, the CJPN team will be hosting a workshop on how to successfully present a scientific article.</description>
-    </item>
-    
-    <item>
-      <title>Issue 1</title>
-      <link>/cjpn/back_issues/issue/issue1/</link>
-      <pubDate>Wed, 23 Dec 2020 15:44:46 +0600</pubDate>
-      
-      <guid>/cjpn/back_issues/issue/issue1/</guid>
-      <description>Preview   Foreword Editors In Chief Bit of text  Research Articles   Article 1 Author Abstract
-  Article 2 Author Abstract</description>
-    </item>
-    
-    <item>
-      <title>EXAMPLE ISSUE</title>
-      <link>/cjpn/back_issues/example/</link>
-      <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
-      
-      <guid>/cjpn/back_issues/example/</guid>
-      <description>This page is currently under construction!
-Check back for updates</description>
     </item>
     
   </channel>
