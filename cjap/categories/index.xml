@@ -6,11 +6,11 @@
     <description>Recent content in Categories on CJAP | Concordia Journal of Accessible Psychology </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/cjap/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="/cjap/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aging</title>
       <link>/cjap/categories/aging/</link>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>/cjap/categories/aging/</guid>
       <description></description>
@@ -19,9 +19,54 @@
     <item>
       <title>Animal Learning</title>
       <link>/cjap/categories/animal-learning/</link>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>/cjap/categories/animal-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disorders</title>
+      <link>/cjap/categories/disorders/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/cjap/categories/disorders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drugs</title>
+      <link>/cjap/categories/drugs/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/cjap/categories/drugs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye-tracking</title>
+      <link>/cjap/categories/eye-tracking/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/cjap/categories/eye-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nature-nurture</title>
+      <link>/cjap/categories/nature-nurture/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/cjap/categories/nature-nurture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>positive psychology</title>
+      <link>/cjap/categories/positive-psychology/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/cjap/categories/positive-psychology/</guid>
       <description></description>
     </item>
     
@@ -40,24 +85,6 @@
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/cjap/categories/circadian-clock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disorders</title>
-      <link>/cjap/categories/disorders/</link>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/cjap/categories/disorders/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eye-tracking</title>
-      <link>/cjap/categories/eye-tracking/</link>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/cjap/categories/eye-tracking/</guid>
       <description></description>
     </item>
     
