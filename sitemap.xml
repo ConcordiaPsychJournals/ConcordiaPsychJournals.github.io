@@ -19,6 +19,56 @@
   </url>
     
   <url>
+    <loc>/cjap/blog/perception-of-minorities/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cjap/blog/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cjap/categories/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url>
+    
+    <url>
+    <loc>/cjap/categories/clinical-psychology/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cjap/categories/cognitive-psychology/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cjap/blog/colour-blindness/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cjap/categories/cultural-psychology/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cjap/categories/mental-health/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cjap/blog/method-or-madness/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cjap/events/</loc>
+    <lastmod>2021-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/cjap/categories/aging/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
@@ -35,21 +85,6 @@
   
   <url>
     <loc>/cjap/blog/japanese-macaques/</loc>
-    <lastmod>2021-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cjap/blog/</loc>
-    <lastmod>2021-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cjap/categories/</loc>
-    <lastmod>2021-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cjap/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -154,11 +189,6 @@
   </url>
   
   <url>
-    <loc>/cjap/categories/mental-illness/</loc>
-    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/cjap/blog/animal-learning/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
@@ -190,11 +220,6 @@
   
   <url>
     <loc>/cjap/abstract/</loc>
-    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cjap/events/</loc>
     <lastmod>2020-02-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -251,6 +276,11 @@
   </url>
   
   <url>
+    <loc>/cjpn/events/make-your-own-website/</loc>
+    <lastmod>2021-11-05T13:45:06+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/cjpn/events/how-to-submit/</loc>
     <lastmod>2021-05-13T13:45:06+06:00</lastmod>
   </url>
@@ -258,11 +288,6 @@
   <url>
     <loc>/cjpn/events/writing-a-good-review/</loc>
     <lastmod>2021-05-11T13:45:06+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cjpn/events/make-your-own-website/</loc>
-    <lastmod>2021-03-04T13:45:06+06:00</lastmod>
   </url>
   
   <url>
@@ -277,6 +302,11 @@
   
   <url>
     <loc>/cjpn/back_issues/issue1/</loc>
+    <lastmod>2020-12-23T15:44:46+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cjpn/back_issues/issue2/</loc>
     <lastmod>2020-12-23T15:44:46+06:00</lastmod>
   </url>
   
