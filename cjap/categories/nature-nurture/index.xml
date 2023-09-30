@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nature-nurture on CJAP | Concordia Journal of Accessible Psychology </title>
-    <link>cjap/categories/nature-nurture/</link>
+    <link>/cjap/categories/nature-nurture/</link>
     <description>Recent content in nature-nurture on CJAP | Concordia Journal of Accessible Psychology </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="cjap/categories/nature-nurture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="/cjap/categories/nature-nurture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>It Takes Two; What Can We Learn From Identical Twins?</title>
-      <link>cjap/blog/identical-twins/</link>
+      <link>/cjap/blog/identical-twins/</link>
       <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>cjap/blog/identical-twins/</guid>
+      <guid>/cjap/blog/identical-twins/</guid>
       <description>Have you ever wondered about the causes of mental illness and negative life outcomes? While we know that both nature (genetics) and nurture (the environment) play an important role, the specifics are still unclear. For scientists, identical twins offer a unique way to investigate the impact of the environment on mental health and development [1]. Identical twins have long been studied in the medical field to explore the causes of disease.</description>
     </item>
     
