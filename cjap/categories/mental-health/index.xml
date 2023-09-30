@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mental health on CJAP | Concordia Journal of Accessible Psychology </title>
-    <link>/cjap/categories/mental-health/</link>
+    <link>cjap/categories/mental-health/</link>
     <description>Recent content in Mental health on CJAP | Concordia Journal of Accessible Psychology </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/cjap/categories/mental-health/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="cjap/categories/mental-health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>METHOD OR MADNESS? EXPLORING THE PSYCHOLOGICAL EFFECTS OF METHOD ACTING</title>
-      <link>/cjap/blog/method-or-madness/</link>
+      <link>cjap/blog/method-or-madness/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/cjap/blog/method-or-madness/</guid>
+      <guid>cjap/blog/method-or-madness/</guid>
       <description>From Nicolas Cage having his teeth pulled out without anesthesia for the film Birdy to Leonardo DiCaprio, an avid vegetarian, sleeping in animal carcasses in The Revenant, many actors are devoted followers of “method acting,” a technique which requires performers to fully inhabit the identity of a fictional character, rather than simply memorizing and reciting lines [1, 2]. Such actors are often met with critical acclaim and celebrated with awards for their efforts, as they completely transform their bodies and perform dangerous stunts to fully immerse themselves in their performance.</description>
     </item>
     
