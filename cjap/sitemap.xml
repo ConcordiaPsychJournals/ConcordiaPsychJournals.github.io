@@ -3,265 +3,295 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/cjap/blog/perception-of-minorities/</loc>
+    <loc>cjap/blog/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>cjap/categories/body-perception/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>cjap/categories/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>cjap/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>cjap/categories/edi/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>cjap/blog/edi-editorial/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>cjap/categories/sleep/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>cjap/blog/body-positivity/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>cjap/blog/night-sleep/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>cjap/blog/perception-of-minorities/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/</loc>
+    <loc>cjap/categories/clinical-psychology/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/categories/</loc>
+    <loc>cjap/categories/cognitive-psychology/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/</loc>
+    <loc>cjap/blog/colour-blindness/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/categories/clinical-psychology/</loc>
+    <loc>cjap/categories/cultural-psychology/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/categories/cognitive-psychology/</loc>
+    <loc>cjap/categories/mental-health/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/colour-blindness/</loc>
+    <loc>cjap/blog/method-or-madness/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/categories/cultural-psychology/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cjap/categories/mental-health/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cjap/blog/method-or-madness/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cjap/events/</loc>
+    <loc>cjap/events/</loc>
     <lastmod>2021-11-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/categories/aging/</loc>
+    <loc>cjap/categories/aging/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/categories/animal-learning/</loc>
+    <loc>cjap/categories/animal-learning/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/anxiety-weed/</loc>
+    <loc>cjap/blog/anxiety-weed/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/japanese-macaques/</loc>
+    <loc>cjap/blog/japanese-macaques/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/categories/disorders/</loc>
+    <loc>cjap/categories/disorders/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/categories/drugs/</loc>
+    <loc>cjap/categories/drugs/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/categories/eye-tracking/</loc>
+    <loc>cjap/categories/eye-tracking/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/jealous-relationships/</loc>
+    <loc>cjap/blog/jealous-relationships/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/identical-twins/</loc>
+    <loc>cjap/blog/identical-twins/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/life-marathon/</loc>
+    <loc>cjap/blog/life-marathon/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/categories/nature-nurture/</loc>
+    <loc>cjap/categories/nature-nurture/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/older-adult-walking/</loc>
+    <loc>cjap/blog/older-adult-walking/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/categories/positive-psychology/</loc>
+    <loc>cjap/categories/positive-psychology/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/odler-adult-fall/</loc>
+    <loc>cjap/blog/odler-adult-fall/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/race-relations-trauma/</loc>
+    <loc>cjap/blog/race-relations-trauma/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/seat-seniors/</loc>
+    <loc>cjap/blog/seat-seniors/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/disordered-eating/</loc>
+    <loc>cjap/blog/disordered-eating/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/picky-eating/</loc>
+    <loc>cjap/blog/picky-eating/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/categories/brain-connectivity/</loc>
+    <loc>cjap/categories/brain-connectivity/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/categories/circadian-clock/</loc>
+    <loc>cjap/categories/circadian-clock/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/highways-brain/</loc>
+    <loc>cjap/blog/highways-brain/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/brain-connections/</loc>
+    <loc>cjap/blog/brain-connections/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/memory-brands/</loc>
+    <loc>cjap/blog/memory-brands/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/lets-not-trip/</loc>
+    <loc>cjap/blog/lets-not-trip/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/animal-learning/</loc>
+    <loc>cjap/blog/animal-learning/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/death-best-friend/</loc>
+    <loc>cjap/blog/death-best-friend/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/internal-clock-lunchtime/</loc>
+    <loc>cjap/blog/internal-clock-lunchtime/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/circadian-clock-psychiatry/</loc>
+    <loc>cjap/blog/circadian-clock-psychiatry/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/blog/ruminate/</loc>
+    <loc>cjap/blog/ruminate/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/about/</loc>
+    <loc>cjap/about/</loc>
     <lastmod>2020-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/abstract/</loc>
+    <loc>cjap/abstract/</loc>
     <lastmod>2020-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/team/</loc>
+    <loc>cjap/team/</loc>
     <lastmod>2020-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/submit/</loc>
+    <loc>cjap/submit/</loc>
     <lastmod>2020-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/home/</loc>
+    <loc>cjap/home/</loc>
     <lastmod>2020-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/itemized/item1/</loc>
+    <loc>cjap/itemized/item1/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/itemized/item2/</loc>
+    <loc>cjap/itemized/item2/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/itemized/item3/</loc>
+    <loc>cjap/itemized/item3/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/itemized/item4/</loc>
+    <loc>cjap/itemized/item4/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/itemized/</loc>
+    <loc>cjap/itemized/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cjap/contact/</loc>
+    <loc>cjap/contact/</loc>
   </url>
   
   <url>
-    <loc>/cjap/contact/contact/</loc>
+    <loc>cjap/contact/contact/</loc>
   </url>
   
   <url>
-    <loc>/cjap/tags/</loc>
+    <loc>cjap/tags/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EDI on CJAP | Concordia Journal of Accessible Psychology </title>
+    <link>cjap/categories/edi/</link>
+    <description>Recent content in EDI on CJAP | Concordia Journal of Accessible Psychology </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="cjap/categories/edi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inclusivity in Psychology at Concordia University</title>
+      <link>cjap/blog/edi-editorial/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>cjap/blog/edi-editorial/</guid>
+      <description>Equity, Diversity, and Inclusion (EDI) have gained significant spotlight in academic circles over the past 10 years, highlighting how important they are. EDI is an umbrella term of all the approaches that aim to ensure equitable representation and inclusion of diverse views in scientific research and clinical practice. Its overarching goal is to produce science that is more equitable, representative, and, ultimately, more valid in benefiting all groups of society.</description>
+    </item>
+    
+  </channel>
+</rss>
