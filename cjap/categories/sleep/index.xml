@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sleep on CJAP | Concordia Journal of Accessible Psychology </title>
-    <link>cjap/categories/sleep/</link>
+    <link>/cjap/categories/sleep/</link>
     <description>Recent content in Sleep on CJAP | Concordia Journal of Accessible Psychology </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="cjap/categories/sleep/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/cjap/categories/sleep/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Should You Be Doing at Night?</title>
-      <link>cjap/blog/night-sleep/</link>
+      <link>/cjap/blog/night-sleep/</link>
       <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>cjap/blog/night-sleep/</guid>
+      <guid>/cjap/blog/night-sleep/</guid>
       <description>In our fast-paced world, where to-do lists seem never-ending, deadlines are tight, and nightlife is bustling, it can be challenging to prioritize our health and well-being. Even more so, the prevalent and highly regarded &amp;ldquo;go-go-go&amp;rdquo; lifestyle creates a constant state of urgency that makes prioritizing our health and well-being even more difficult. Unfortunately, the most important aspect of our well-being is often the one that gets neglected the most: sleep.</description>
     </item>
     
