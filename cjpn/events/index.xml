@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CJPN Events on CJPN | Concordia Journal of Psychology and Neuroscience</title>
-    <link>cjpn/events/</link>
+    <link>/cjpn/events/</link>
     <description>Recent content in CJPN Events on CJPN | Concordia Journal of Psychology and Neuroscience</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="cjpn/events/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="/cjpn/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Make Your Own Website</title>
-      <link>cjpn/events/make-your-own-website/</link>
+      <link>/cjpn/events/make-your-own-website/</link>
       <pubDate>Fri, 05 Nov 2021 13:45:06 +0600</pubDate>
       
-      <guid>cjpn/events/make-your-own-website/</guid>
+      <guid>/cjpn/events/make-your-own-website/</guid>
       <description>Event date: November 5, 2021 Want to make your website on your own time? Download the handout here. Check Out Alexa&amp;rsquo;s Completed Academic Website!
 Want to learn a new skill?</description>
     </item>
     
     <item>
       <title>How To Submit</title>
-      <link>cjpn/events/how-to-submit/</link>
+      <link>/cjpn/events/how-to-submit/</link>
       <pubDate>Thu, 13 May 2021 13:45:06 +0600</pubDate>
       
-      <guid>cjpn/events/how-to-submit/</guid>
+      <guid>/cjpn/events/how-to-submit/</guid>
       <description>Event date: May 13, 2021 Watch the Recording See the Slides
 This workshop is highly recommended to undergraduate students who plan on submitting to CJAP or CJPN, as it will focus on how to write a science communication article as well as the specific details on how to submit.</description>
     </item>
     
     <item>
       <title>Writing a Good Review</title>
-      <link>cjpn/events/writing-a-good-review/</link>
+      <link>/cjpn/events/writing-a-good-review/</link>
       <pubDate>Tue, 11 May 2021 13:45:06 +0600</pubDate>
       
-      <guid>cjpn/events/writing-a-good-review/</guid>
+      <guid>/cjpn/events/writing-a-good-review/</guid>
       <description>Event date: May 11, 2021 Watch the Recording See the Slides
 This workshop is mandatory for all members of the CJAP &amp;amp; CJPN team, but all are welcome to join!</description>
     </item>
     
     <item>
       <title>Dos and Donts: Presenting an Article Summary</title>
-      <link>cjpn/events/dos-donts/</link>
+      <link>/cjpn/events/dos-donts/</link>
       <pubDate>Sun, 03 Jan 2021 13:45:06 +0600</pubDate>
       
-      <guid>cjpn/events/dos-donts/</guid>
+      <guid>/cjpn/events/dos-donts/</guid>
       <description>Event date: February 1st, 2021 Watch the Recording
 As part of Journal Day, a collaborative event between psychology students at Concordia and McGill University, the CJPN team will be hosting a workshop on how to successfully present a scientific article.</description>
     </item>
